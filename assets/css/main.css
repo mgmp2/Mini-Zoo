@@ -1,8 +1,14 @@
 .mini-zoo {
   width: 1000px;
-  height: 800px;
   margin: 100px;
   border-style: dashed;
+  box-shadow: 14px 16px 7px #9c5555
+}
+h1 {
+  font-style: italic;
+  font-size: 40px;
+  margin-left: 42%;
+
 }
 .option-color {
   margin-left: 30%;
