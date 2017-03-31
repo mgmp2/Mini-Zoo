@@ -2,7 +2,8 @@
   width: 1000px;
   margin: 100px;
   border-style: dashed;
-  box-shadow: 14px 16px 7px #9c5555
+  box-shadow: 14px 16px 7px #9c5555;
+  background-color: rgba(197, 190, 190, 0.25);
 }
 h1 {
   font-style: italic;
